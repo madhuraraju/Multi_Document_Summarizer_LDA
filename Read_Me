@@ -1,0 +1,4 @@
+This folder has all the python scripts that was used in the project.
+The tools/programs that were taken from the internet is not available here. We used and extended an Implementation of LDA and the PageRank algorithm
+to rank the output of the sentence X sentence matrix.
+If you have any questions, please mail me @ rmadhura@seas.upenn.edu 
